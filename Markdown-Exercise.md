@@ -2,25 +2,26 @@
 **Name:** Zivar S Murphy
 **Date:** September 11,2024
 ## Headers 
-### Level 3 Header
-#### Level 4 Header
+### Level 1 Header
+#### Level 2 Header
 ## Emphasis 
-**Bold Text**
-*Italic Text*
-***Bold and Italic Text***
+**Learning Markdown is fun!**
+*Learning Markdown is fun!*
+***Learning Markdown is fun!***
 ## Lists 
 ### Ordered List
-1. First item
-2. Second item
-3. Third item
+1. Create your GitHub Account
+2. Navigate to your Repository 
+3. Create a New Markdown File and Practice Markdown Formatting
    ###Unordered List
-   - Bullet point 1
-   - Bullet point 2
-     - Nested bullet point
+   - Complete the report
+   - Review the draft
+   - Submit the final version
+     - Ensure all formatting is correct
 ## Link
-       [CNN](http://www.cnn.com)
+       [CNN](https://www.cnn.com)
 ## Images
-       ![pexels](https://www.pexels.com/photo/sunflower-field-under-blue-sky-1540330/)
+       ![pexels]https://images.pexels.com/photos/1540330/pexels-photo-1540330.jpeg)
 ## Blockquotes
 > "Be yourself; everyone else is already taken."
 > -Oscar Wilde
