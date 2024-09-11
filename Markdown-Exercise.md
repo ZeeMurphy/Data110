@@ -21,7 +21,7 @@
 ## Link
        [CNN](https://www.cnn.com)
 ## Images
-       ![pexels]https://images.pexels.com/photos/1540330/pexels-photo-1540330.jpeg)
+       ![pexels](https://images.pexels.com/photos/1540330/pexels-photo-1540330.jpeg)
 ## Blockquotes
 > "Be yourself; everyone else is already taken."
 > -Oscar Wilde
