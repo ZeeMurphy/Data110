@@ -1,7 +1,6 @@
 # Author
 **Name:** Zivar S Murphy
 **Date:** September 11, 2024
-
 ### Headers 3
 #### Level 4 Header
 ### Emphasis 
