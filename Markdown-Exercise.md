@@ -23,9 +23,9 @@
 ### Link for Painting Styles
 Here is a link for [21 Important Types of Painting Styles with definitions](https://www.artlex.com/painting/types-of-painting-styles/#:~:text=Common%20painting%20techniques%20work%20for%20oil%20painting%2C%20figure,may%20also%20be%20reactions%20to%20older%20artistic%20movements.)
 
-### Images
-  ![image](https://images.unsplash.com/photo-1544952019-734321a2a151?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-### Blockquotes
+### A painting by the Iranian painter, Hossein Mahjoubi
+![A painting by the Iranian painter, Hossein Mahjoubi](https://mahjoobi.com/wp-content/uploads/2021/05/horsesandtree-11.jpg)
+### My Favorite Code
 > "Be yourself; everyone else is already taken."
 > -Oscar Wilde
 ### Inline 
@@ -40,11 +40,11 @@ Water Usage Comparison
 |-----------|-----------------------|------------------------------|
 | July      | 15,000                | 500                          |
 | January   | 10,000                | 323                          |
-### Task List
-- [] Take the diagnostic grammar test
-- [] Post an intro in the Discussion room
-- [] Take a quiz
+### Task List for Eng 102:
+- [] Take the Thesis Statement test
 - [] Annotate a text
+- [] Take a quiz
+- [] Post in Discussion forum
 ### Footnotes
 In this exercise, we learned how to create a new file in our Markdown repository and practiced different syntaxes in Markdown[^1].
 [^1]: This exercise is designed to familiarize students with basic Markdown features, such as file creation, formatting text, and using different Markdown syntaxes effectively.
