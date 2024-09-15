@@ -1,24 +1,28 @@
 # Author
 **Name:** Zivar S Murphy  
 **Date:** September 9, 2024
-### Headers 3
-#### Level 4 Header
+### Painting
+#### Level 4 Header as a practice
 ### Emphasis 
-**Learning Markdown is fun!**
-*Learning Markdown is fun!*
-***Learning Markdown is fun!***
-## Lists 
-### Ordered List
-1. Create your GitHub Account
-2. Navigate to your Repository 
-3. Create a New Markdown File and Practice Markdown Formatting
-### Unordered List
-   - Complete the report
-   - Review the draft
-   - Submit the final version
-     - Ensure all formatting is correct
-### Links
-Here is a [link to my GitHub repository](https://github.com/Reben80/Data110-22016/tree/main).
+**Playing with colors is fun!**
+*Playing with colors is fun!*
+***Playing with colors is fun!***
+### List of Painting Mediums in order of my preference:
+1. Oil
+2. Acrylic
+3. Ink
+4. Gouache
+### List of Painting Styles
+   - Realism
+   - Impressionism
+   - Fauvism
+   - Expressionism
+     - figurative Expressionism
+     - Boston Expressionism 
+     
+### Link for Painting Styles
+Here is a link for [21 Important Types of Painting Styles with definitions](https://www.artlex.com/painting/types-of-painting-styles/#:~:text=Common%20painting%20techniques%20work%20for%20oil%20painting%2C%20figure,may%20also%20be%20reactions%20to%20older%20artistic%20movements.)
+
 ### Images
   ![image](https://images.unsplash.com/photo-1544952019-734321a2a151?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 ### Blockquotes
